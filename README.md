@@ -1,6 +1,6 @@
 ### Olá, eu sou o Diego Alves 👋
 
-**Chief AI Officer** da **[Plenum Inteligência e Capacitação](mailto:contato@plenumacademy.com.br)** e **gestor público** em São Pedro da Aldeia/RJ.
+**Chief AI Officer** da **[Plenum Inteligência e Capacitação](https://www.plenumacademy.com.br)** e **gestor público** em São Pedro da Aldeia/RJ.
 
 Construo software para o setor público e para pequenos negócios: gestão de transporte escolar, gabinetes parlamentares, segurança municipal, busca facial em eventos e plataformas para personal trainers.
 
@@ -11,4 +11,4 @@ Construo software para o setor público e para pequenos negócios: gestão de tr
 - **[claude-code-jev-compaction](https://github.com/DihRJ/claude-code-jev-compaction)**: como reduzir tokens de entrada no Claude Code com compactação de contexto por relevância
 
 #### Contato
-📧 contato@plenumacademy.com.br · 💬 [WhatsApp](https://wa.me/5521980825501)
+📧 [contato@diegoalves.io](mailto:contato@diegoalves.io) · 🌐 [diegoalves.io](https://diegoalves.io) · 💬 [WhatsApp](https://wa.me/5521980825501)
